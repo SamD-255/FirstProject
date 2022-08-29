@@ -1,6 +1,6 @@
 
 document.getElementById("Button").onclick = function() {
-     prompt("eat balls idiot pooper shitster ass farter");
+     prompt("what is your age");
   };
 
 //   document.getElementById("RootNode").onclick = function(){//do something}
